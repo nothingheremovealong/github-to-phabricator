@@ -1,0 +1,14 @@
+GitHub:
+  repository:
+    user:
+    repo:
+  user:
+    token: # https://github.com/settings/tokens
+  firstIssueNumber:
+  webhook:
+    secret:
+Phabricator:
+  api:
+  token:
+  project:
+  viewPolicy: users # E.g. public, E.g. users, E.g. project
